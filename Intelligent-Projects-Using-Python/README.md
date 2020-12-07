@@ -2,8 +2,8 @@
 
 ** Rreal-world AI projects leveraging machine learning and deep learning with TensorFlow and Keras**
 
-## What is this book about?
-This book will be a perfect companion if you want to build insightful projects from leading AI domains using Python.
+## What is this about?
+This is perfect companion if you want to build insightful projects from leading AI domains using Python.
 
 This book covers the following exciting features: 
 * Build an intelligent machine translation system using seq-2-seq neural translation machines
